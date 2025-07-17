@@ -54,12 +54,8 @@ project-2-hobby-gallery-motioncut-frontend-internship/
 
 ## 🚀 Live Demo
 
-> Once deployed using GitHub Pages:
-```
-https://sandip-pal1.github.io/project-2-hobby-gallery-motioncut-frontend-internship/
-```
+[Click here to view the live demo](https://sandip-pal1.github.io/project-2-hobby-gallery-motioncut-frontend-internship/)
 
----
 
 ## 📚 Internship Info
 
